@@ -1,0 +1,6 @@
+@DHANA_HostAddress = http://localhost:5166
+
+GET {{DHANA_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
